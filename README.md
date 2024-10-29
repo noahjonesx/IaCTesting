@@ -201,3 +201,4 @@ In the above two examples, we are seeing that a special tag has been added in th
 "# Testing Codacy integration" 
 "# Testing Codacy again" 
 "# Testing Codacy again" 
+"# Testing Codacy with analysis enabled" 
